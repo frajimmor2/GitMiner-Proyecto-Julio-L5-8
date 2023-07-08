@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GitLabMiner/AISS.iml" filepath="$PROJECT_DIR$/GitLabMiner/AISS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GitMiner Proyecto Julio.iml" filepath="$PROJECT_DIR$/.idea/GitMiner Proyecto Julio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GitMiner-master-L5-8/GitMiner-master/gitMiner.iml" filepath="$PROJECT_DIR$/GitMiner-master-L5-8/GitMiner-master/gitMiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GitHubMiner/githubminer.iml" filepath="$PROJECT_DIR$/GitHubMiner/githubminer.iml" />
+    </modules>
+  </component>
+</project>
